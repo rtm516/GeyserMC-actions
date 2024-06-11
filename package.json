@@ -10,7 +10,8 @@
         "previous-release/",
         "release/",
         "upload-multi-artifact/",
-        "upload-release/"
+        "upload-release/",
+        "issues-dump/"
     ],
     "scripts": {
         "package": "npm run package --ws"
